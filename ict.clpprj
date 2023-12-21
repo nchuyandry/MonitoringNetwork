@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\xampp\htdocs\ICT\ict.clpprj">
+	<settings>
+		<PM_URL><![CDATA[http://localhost/ICT/]]></PM_URL><PM_HOME_URL><![CDATA[http://localhost/ICT/]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";"/><added value=""/><lastopfiles>
+	</lastopfiles>
+	<errors version="5.11">
+		<errfile name="C:\xampp\htdocs\ICT\application\views\temperature.php">
+			<error val="23;27;35;27;2002;1;"/>
+			<error val="26;68;38;68;2002;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ICT\application\views\slavekpi.php">
+			<error val="23;28;35;28;2002;1;"/>
+			<error val="26;69;38;69;2002;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ICT\application\views\dashboard.php">
+			<error val="23;29;35;29;2002;1;"/>
+			<error val="26;70;38;70;2002;1;"/>
+		</errfile>
+		<errfile name="C:\xampp\htdocs\ICT\application\views\backupdb.php">
+			<error val="23;27;35;27;2002;1;"/>
+			<error val="26;68;38;68;2002;1;"/>
+		</errfile>
+	</errors>
+	<cakedata>
+	</cakedata>
+	<dplmenupath>
+	</dplmenupath><laravael>
+	</laravael><smartyassings>
+	</smartyassings><twigtemplate>
+	</twigtemplate><yiidata>
+	</yiidata>
+	<todoblock>
+		<todofile name="C:\xampp\htdocs\ICT\system\core\Loader.php">
+			<todo name="todo	Figure out a way to move this to the constructor" pos="5;148"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\core\Output.php">
+			<todo name="todo	We need to figure out how to permit headers to be cached." pos="5;209"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\database\DB_forge.php">
+			<todo name="todo	Remove deprecated $_after option in 3.1+" pos="5;558"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\database\DB_query_builder.php">
+			<todo name="@todo error" pos="4;2003"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\sqlite3_driver.php">
+			<todo name="todo	Implement use of SQLite3::querySingle(), if needed" pos="5;120"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\sqlite3_forge.php">
+			<todo name="todo	implement drop_column(), modify_column()" pos="5;135"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite\sqlite_forge.php">
+			<todo name="todo	implement drop_column(), modify_column()" pos="5;115"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\helpers\date_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;134"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\helpers\file_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;58"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\helpers\security_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;89"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\helpers\string_helper.php">
+			<todo name="todo	Remove in version 3.1+." pos="5;64"/>
+			<todo name="todo: remove in 3.1+" pos="19;229"/>
+			<todo name="todo: remove in 3.1+" pos="20;232"/>
+			<todo name="todo	Remove in version 3.1+." pos="5;292"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\helpers\url_helper.php">
+			<todo name="todo	Remove old 'dash' and 'underscore' usage in 3.1+." pos="5;472"/>
+		</todofile>
+		<todofile name="C:\xampp\htdocs\ICT\system\libraries\Xmlrpc.php">
+			<todo name="@todo - this needs to be made more general purpose" pos="6;1574"/>
+		</todofile>
+	</todoblock>
+	<dbgurls>
+	</dbgurls>
+	<filescache>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\drivers\Session_redis_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\drivers\Session_memcached_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\drivers\Session_files_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\drivers\Session_database_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\drivers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\SessionHandlerInterface.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\Session_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\Session.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Session\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Javascript\Jquery.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Javascript\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\Cache_wincache.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\Cache_redis.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\Cache_memcached.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\Cache_file.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\Cache_dummy.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\drivers\Cache_apc.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cache\Cache.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Zip.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Xmlrpcs.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Xmlrpc.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\User_agent.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Upload.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Unit_test.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Typography.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Trackback.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Table.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Profiler.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Parser.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Pagination.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Migration.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Javascript.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Image_lib.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Ftp.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Form_validation.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Encryption.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Encrypt.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Email.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Curl.php" crc="1605239430"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Cart.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\libraries\Calendar.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\upload_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\unit_test_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\profiler_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\pagination_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\number_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\migration_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\imglib_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\ftp_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\form_validation_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\email_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\db_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\date_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\english\calendar_lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\language\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\xml_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\url_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\typography_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\text_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\string_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\smiley_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\security_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\path_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\number_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\language_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\inflector_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\html_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\form_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\file_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\email_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\download_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\directory_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\date_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\cookie_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\captcha_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\helpers\array_helper.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\fonts\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlsrv\sqlsrv_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlsrv\sqlsrv_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlsrv\sqlsrv_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlsrv\sqlsrv_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlsrv\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\sqlite3_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\sqlite3_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\sqlite3_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\sqlite3_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite3\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite\sqlite_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite\sqlite_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite\sqlite_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite\sqlite_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\sqlite\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\postgre\postgre_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\postgre\postgre_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\postgre\postgre_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\postgre\postgre_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\postgre\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_sqlsrv_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_sqlite_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_sqlite_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_pgsql_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_pgsql_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_odbc_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_odbc_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_oci_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_oci_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_mysql_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_mysql_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_informix_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_informix_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_ibm_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_ibm_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_firebird_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_firebird_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_dblib_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_dblib_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_cubrid_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_cubrid_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_4d_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\pdo_4d_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\subdrivers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\pdo_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\pdo_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\pdo_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\pdo_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\pdo\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\odbc\odbc_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\odbc\odbc_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\odbc\odbc_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\odbc\odbc_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\odbc\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\oci8\oci8_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\oci8\oci8_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\oci8\oci8_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\oci8\oci8_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\oci8\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysqli\mysqli_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysqli\mysqli_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysqli\mysqli_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysqli\mysqli_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysqli\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysql\mysql_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysql\mysql_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysql\mysql_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysql\mysql_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mysql\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mssql\mssql_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mssql\mssql_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mssql\mssql_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mssql\mssql_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\mssql\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\ibase\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\ibase\ibase_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\ibase\ibase_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\ibase\ibase_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\ibase\ibase_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\cubrid\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\cubrid\cubrid_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\cubrid\cubrid_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\cubrid\cubrid_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\cubrid\cubrid_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\drivers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB_utility.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB_result.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB_query_builder.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB_forge.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB_driver.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB_cache.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\database\DB.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\compat\standard.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\compat\password.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\compat\mbstring.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\compat\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\compat\hash.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Utf8.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\URI.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Security.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Router.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Output.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Model.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Log.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Loader.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Lang.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Input.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Hooks.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Exceptions.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Controller.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Config.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Common.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\CodeIgniter.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\core\Benchmark.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\system\.htaccess" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\plugins\_plugin-perfect-scrollbar.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\vendor\_plugin-perfect-scrollbar.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\vendor\_plugin-animate-bootstrap-notify.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_transform.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_text.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_spacing.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_sizing.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_shadows.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_position.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_helper.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_floating.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\utilities\_backgrounds.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\opacity.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_wizard.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_vendor-prefixes.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_popovers.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_page-header.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_modals.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_inputs.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_icon.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_forms.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_dropdown.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_buttons.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_badges.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_background-variant.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\mixins\_alert.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\cards\_card-user.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\cards\_card-task.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\cards\_card-plain.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\cards\_card-map.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\cards\_card-chart.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_white-content.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_variables.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_utilities.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_type.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_tables.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_sidebar-and-main-panel.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_rtl.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_navbar.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_modal.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_mixins.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_misc.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_input-group.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_images.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_functions.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_forms.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_footer.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_fixed-plugin.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_example-pages.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_dropdown.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_checkboxes-radio.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_card.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_buttons.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\custom\_alerts.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\vendor\_rfs.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_visibility.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_text.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_stretched-link.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_spacing.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_sizing.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_shadows.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_screenreaders.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_position.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_overflow.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_float.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_flex.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_embed.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_display.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_clearfix.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_borders.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_background.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\utilities\_align.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_visibility.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_transition.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_text-truncate.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_text-hide.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_text-emphasis.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_table-row.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_size.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_screen-reader.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_resize.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_reset-text.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_pagination.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_nav-divider.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_lists.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_list-group.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_image.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_hover.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_grid.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_grid-framework.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_gradients.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_forms.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_float.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_deprecate.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_clearfix.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_caret.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_buttons.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_breakpoints.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_box-shadow.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_border-radius.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_badge.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_background-variant.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\mixins\_alert.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\bootstrap.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\bootstrap-reboot.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\bootstrap-grid.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_variables.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_utilities.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_type.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_transitions.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_tooltip.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_toasts.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_tables.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_spinners.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_root.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_reboot.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_progress.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_print.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_popover.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_pagination.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_navbar.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_nav.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_modal.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_mixins.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_media.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_list-group.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_jumbotron.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_input-group.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_images.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_grid.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_functions.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_forms.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_dropdown.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_custom-forms.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_code.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_close.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_carousel.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_card.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_buttons.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_button-group.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_breadcrumb.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_badge.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\bootstrap\_alert.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\_typography.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard\_buttons.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\scss\black-dashboard.scss" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\plugins\perfect-scrollbar.jquery.min.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\plugins\chartjs.min.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\plugins\bootstrap-notify.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\core\popper.min.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\core\jquery.min.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\core\bootstrap.min.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\control.js" crc="1604127603"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\black-dashboard.min.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\js\black-dashboard.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\demo\demo.js" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\demo\demo.css" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\css\nucleo-icons.css" crc="1592986310"/>
+		<file name="C:\xampp\htdocs\ICT\assets\css\black-dashboard.min.css" crc="1604131927"/>
+		<file name="C:\xampp\htdocs\ICT\assets\css\black-dashboard.css" crc="1604132279"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\html\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\html\error_php.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\html\error_general.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\html\error_exception.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\html\error_db.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\html\error_404.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\cli\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\cli\error_php.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\cli\error_general.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\cli\error_exception.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\cli\error_db.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\cli\error_404.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\errors\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\welcome_message.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\temperature.php" crc="1605064744"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\slavekpi.php" crc="1607155066"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\sidebar.php" crc="1604128612"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\plugin.php" crc="1604127484"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\navbar.php" crc="1604128277"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\footer.php" crc="1605250019"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\dashboard.php" crc="1607155161"/>
+		<file name="C:\xampp\htdocs\ICT\application\views\backupdb.php" crc="1607155082"/>
+		<file name="C:\xampp\htdocs\ICT\application\third_party\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\models\MTemp.php" crc="1605066866"/>
+		<file name="C:\xampp\htdocs\ICT\application\models\MSlavekpi.php" crc="1604906613"/>
+		<file name="C:\xampp\htdocs\ICT\application\models\MBackupdb.php" crc="1604133350"/>
+		<file name="C:\xampp\htdocs\ICT\application\models\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\logs\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\libraries\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\language\english\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\language\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\hooks\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\helpers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\core\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\controllers\Welcome.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\controllers\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\controllers\Dashboard.php" crc="1605248381"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\user_agents.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\smileys.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\routes.php" crc="1605064618"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\profiler.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\mimes.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\migration.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\memcached.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\hooks.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\foreign_chars.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\doctypes.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\database.php" crc="1605066838"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\constants.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\config.php" crc="1604129737"/>
+		<file name="C:\xampp\htdocs\ICT\application\config\autoload.php" crc="1605239543"/>
+		<file name="C:\xampp\htdocs\ICT\application\cache\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\index.html" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\application\.htaccess" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\license.txt" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\index.php" crc="1604047641"/>
+		<file name="C:\xampp\htdocs\ICT\.htaccess" crc="1604129596"/>
+	</filescache>
+</project>
